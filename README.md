@@ -6,6 +6,10 @@
 - All arguments (conditions, ifTrue, and ifFalse) can be either a value or a function which returns a value.
 - Super useful for cleaning up JSX, which doesn't allow use of if/else.
 
+## Pronounciation
+
+jif is pronounced with a hard "G" sound, `/ˈɡɪf/`, as in GIF, or groan, and should never be pronounced with a soft "G", `/ˈdʒɪf/`, as in GIF or jelly.
+
 ## Install
 
 ```

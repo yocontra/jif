@@ -51,10 +51,6 @@ jif(falsey, function(){
 }); // undefined
 ```
 
-## LOL
-
-![wtf](https://cldup.com/-uAzQ1tT_8-3000x3000.png)
-
 [downloads-image]: http://img.shields.io/npm/dm/jif.svg
 [npm-url]: https://npmjs.org/package/jif
 [npm-image]: http://img.shields.io/npm/v/jif.svg

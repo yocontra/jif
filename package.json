@@ -1,6 +1,6 @@
 {
   "name": "jif",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dead simple ternary or if/else replacement",
   "main": "dist/index.js",
   "keywords": [
